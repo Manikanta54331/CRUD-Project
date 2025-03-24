@@ -1,0 +1,386 @@
+2025-03-21 11:19:13 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:19:13 [INFO]: Database connected successfully
+2025-03-21 11:19:27 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:19:27 [INFO]: Database connected successfully
+2025-03-21 11:19:31 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:19:31 [INFO]: Database connected successfully
+2025-03-21 11:19:35 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:19:35 [INFO]: Database connected successfully
+2025-03-21 11:19:38 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:19:39 [INFO]: Database connected successfully
+2025-03-21 11:19:42 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:19:42 [INFO]: Database connected successfully
+2025-03-21 11:20:28 [INFO]: User Data Fetching Started
+2025-03-21 11:20:28 [INFO]: User Data Fetched
+2025-03-21 11:20:28 [INFO]: user data fetched response: [object Object]
+2025-03-21 11:21:04 [INFO]: User Data Fetching Started
+2025-03-21 11:21:04 [INFO]: User Data is not created
+2025-03-21 11:21:04 [INFO]: user data fetched response: 404 USER NOT FOUND
+2025-03-21 11:24:05 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:24:05 [INFO]: Database connected successfully
+2025-03-21 11:24:09 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:24:09 [INFO]: Database connected successfully
+2025-03-21 11:24:14 [INFO]: User Data Fetching Started
+2025-03-21 11:24:14 [ERROR]: User Data is not created
+2025-03-21 11:24:14 [INFO]: user data fetched response: 404 USER NOT FOUND
+2025-03-21 11:24:57 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:24:57 [INFO]: Database connected successfully
+2025-03-21 11:32:49 [INFO]: User Data Fetching Started
+2025-03-21 11:32:49 [INFO]: User Data Fetched Completed
+2025-03-21 11:32:49 [INFO]: user data fetched response: 200 Successfully fetched user data
+2025-03-21 11:33:25 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:33:25 [INFO]: Database connected successfully
+2025-03-21 11:33:26 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:33:26 [INFO]: Database connected successfully
+2025-03-21 11:33:33 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:33:33 [INFO]: Database connected successfully
+2025-03-21 11:33:38 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:33:38 [INFO]: Database connected successfully
+2025-03-21 11:33:39 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:33:39 [INFO]: Database connected successfully
+2025-03-21 11:33:44 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:33:44 [INFO]: Database connected successfully
+2025-03-21 11:33:49 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:33:49 [INFO]: Database connected successfully
+2025-03-21 11:39:11 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:39:11 [INFO]: Database connected successfully
+2025-03-21 11:39:16 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:39:16 [INFO]: Database connected successfully
+2025-03-21 11:39:29 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:39:29 [INFO]: Database connected successfully
+2025-03-21 11:44:58 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:44:58 [INFO]: Database connected successfully
+2025-03-21 11:45:04 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:45:04 [INFO]: Database connected successfully
+2025-03-21 11:45:50 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:45:50 [INFO]: Database connected successfully
+2025-03-21 11:45:54 [INFO]: User Data Fetching Started
+2025-03-21 11:45:54 [INFO]: User Data Fetched Completed
+2025-03-21 11:45:54 [INFO]: user data fetched response: 200 Successfully fetched user data
+2025-03-21 11:47:16 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:47:16 [INFO]: Database connected successfully
+2025-03-21 11:48:45 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:48:45 [INFO]: Database connected successfully
+2025-03-21 11:49:09 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:49:09 [INFO]: Database connected successfully
+2025-03-21 11:49:11 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:49:11 [INFO]: Database connected successfully
+2025-03-21 11:49:14 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:49:14 [INFO]: Database connected successfully
+2025-03-21 11:49:16 [INFO]: Server running on http://localhost:5000
+2025-03-21 11:49:16 [INFO]: Database connected successfully
+2025-03-21 12:09:29 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:09:29 [INFO]: Database connected successfully
+2025-03-21 12:09:31 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:09:31 [INFO]: Database connected successfully
+2025-03-21 12:22:03 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:22:03 [INFO]: Database connected successfully
+2025-03-21 12:22:08 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:22:08 [INFO]: Database connected successfully
+2025-03-21 12:22:10 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:22:11 [INFO]: Database connected successfully
+2025-03-21 12:22:20 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:22:20 [INFO]: Database connected successfully
+2025-03-21 12:22:25 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:22:25 [INFO]: Database connected successfully
+2025-03-21 12:22:28 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:22:28 [INFO]: Database connected successfully
+2025-03-21 12:22:30 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:22:30 [INFO]: Database connected successfully
+2025-03-21 12:22:51 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:22:51 [INFO]: Database connected successfully
+2025-03-21 12:22:54 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:22:54 [INFO]: Database connected successfully
+2025-03-21 12:22:56 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:22:56 [INFO]: Database connected successfully
+2025-03-21 12:23:02 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:23:02 [INFO]: Database connected successfully
+2025-03-21 12:23:26 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:23:26 [INFO]: Database connected successfully
+2025-03-21 12:23:47 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:23:47 [INFO]: Database connected successfully
+2025-03-21 12:23:49 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:23:49 [INFO]: Database connected successfully
+2025-03-21 12:23:55 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:23:55 [INFO]: Database connected successfully
+2025-03-21 12:24:09 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:24:09 [INFO]: Database connected successfully
+2025-03-21 12:24:40 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:24:40 [INFO]: Database connected successfully
+2025-03-21 12:25:15 [INFO]: User Data Fetching Started
+2025-03-21 12:25:15 [INFO]: User Data Fetched
+2025-03-21 12:25:15 [INFO]: user data fetched response: 200 Successfully fetched user data
+2025-03-21 12:25:50 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:25:50 [INFO]: Database connected successfully
+2025-03-21 12:27:59 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:27:59 [INFO]: Database connected successfully
+2025-03-21 12:28:05 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:28:06 [INFO]: Database connected successfully
+2025-03-21 12:28:11 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:28:11 [INFO]: Database connected successfully
+2025-03-21 12:42:03 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:42:04 [INFO]: Database connected successfully
+2025-03-21 12:44:20 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:44:20 [INFO]: Database connected successfully
+2025-03-21 12:44:22 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:44:22 [INFO]: Database connected successfully
+2025-03-21 12:44:39 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:44:39 [INFO]: Database connected successfully
+2025-03-21 12:44:59 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:44:59 [INFO]: Database connected successfully
+2025-03-21 12:45:02 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:45:02 [INFO]: Database connected successfully
+2025-03-21 12:45:14 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:45:14 [INFO]: Database connected successfully
+2025-03-21 12:45:21 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:45:21 [INFO]: Database connected successfully
+2025-03-21 12:45:39 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:45:39 [INFO]: Database connected successfully
+2025-03-21 12:45:43 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:45:43 [INFO]: Database connected successfully
+2025-03-21 12:45:49 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:45:49 [INFO]: Database connected successfully
+2025-03-21 12:46:23 [INFO]: Server running on http://localhost:5000
+2025-03-21 12:46:23 [INFO]: Database connected successfully
+2025-03-21 14:18:17 [INFO]: Server running on http://localhost:5000
+2025-03-21 14:18:17 [INFO]: Database connected successfully
+2025-03-21 14:24:02 [INFO]: Server running on http://localhost:5000
+2025-03-21 14:24:02 [INFO]: Database connected successfully
+2025-03-21 14:24:03 [INFO]: Server running on http://localhost:5000
+2025-03-21 14:24:03 [INFO]: Database connected successfully
+2025-03-21 14:24:09 [INFO]: Server running on http://localhost:5000
+2025-03-21 14:24:09 [INFO]: Database connected successfully
+2025-03-21 14:24:14 [ERROR]: Validation error: ID is required and must be a number
+2025-03-21 14:24:37 [INFO]: Server running on http://localhost:5000
+2025-03-21 14:24:37 [INFO]: Database connected successfully
+2025-03-21 14:24:38 [INFO]: Server running on http://localhost:5000
+2025-03-21 14:24:39 [INFO]: Database connected successfully
+2025-03-21 14:24:42 [INFO]: Server running on http://localhost:5000
+2025-03-21 14:24:42 [INFO]: Database connected successfully
+2025-03-21 14:24:48 [INFO]: Server running on http://localhost:5000
+2025-03-21 14:24:48 [INFO]: Database connected successfully
+2025-03-21 14:25:02 [INFO]: Server running on http://localhost:5000
+2025-03-21 14:25:02 [INFO]: Database connected successfully
+2025-03-21 14:25:04 [INFO]: Server running on http://localhost:5000
+2025-03-21 14:25:04 [INFO]: Database connected successfully
+2025-03-21 14:25:13 [INFO]: Server running on http://localhost:5000
+2025-03-21 14:25:13 [INFO]: Database connected successfully
+2025-03-21 14:25:14 [INFO]: Server running on http://localhost:5000
+2025-03-21 14:25:14 [INFO]: Database connected successfully
+2025-03-21 14:25:17 [INFO]: Server running on http://localhost:5000
+2025-03-21 14:25:17 [INFO]: Database connected successfully
+2025-03-21 14:25:19 [INFO]: Server running on http://localhost:5000
+2025-03-21 14:25:19 [INFO]: Database connected successfully
+2025-03-21 14:25:25 [INFO]: Server running on http://localhost:5000
+2025-03-21 14:25:25 [INFO]: Database connected successfully
+2025-03-21 14:25:41 [INFO]: Server running on http://localhost:5000
+2025-03-21 14:25:42 [INFO]: Database connected successfully
+2025-03-21 14:26:01 [INFO]: Server running on http://localhost:5000
+2025-03-21 14:26:01 [INFO]: Database connected successfully
+2025-03-21 14:26:03 [INFO]: Server running on http://localhost:5000
+2025-03-21 14:26:03 [INFO]: Database connected successfully
+2025-03-21 14:26:05 [INFO]: Server running on http://localhost:5000
+2025-03-21 14:26:05 [INFO]: Database connected successfully
+2025-03-21 14:26:38 [INFO]: Server running on http://localhost:5000
+2025-03-21 14:26:38 [INFO]: Database connected successfully
+2025-03-21 14:27:09 [INFO]: Server running on http://localhost:5000
+2025-03-21 14:27:09 [INFO]: Database connected successfully
+2025-03-21 14:28:29 [ERROR]: Validation error
+2025-03-21 14:30:53 [INFO]: User Data Updated Started
+2025-03-21 14:30:53 [ERROR]: User Data Not Found
+2025-03-21 14:30:53 [INFO]: user data updated: 404 USER NOT FOUND
+2025-03-21 15:23:38 [ERROR]: Validation error
+2025-03-21 15:24:23 [INFO]: Add User Started
+2025-03-21 15:24:23 [INFO]: User data created
+2025-03-21 15:24:23 [INFO]: User created successfully,  200 Successfully created user data
+2025-03-21 15:26:13 [INFO]: Server running on http://localhost:5000
+2025-03-21 15:26:13 [INFO]: Database connected successfully
+2025-03-21 15:26:19 [INFO]: Server running on http://localhost:5000
+2025-03-21 15:26:19 [INFO]: Database connected successfully
+2025-03-21 15:26:23 [INFO]: Server running on http://localhost:5000
+2025-03-21 15:26:23 [INFO]: Database connected successfully
+2025-03-21 15:26:25 [INFO]: Server running on http://localhost:5000
+2025-03-21 15:26:25 [INFO]: Database connected successfully
+2025-03-21 17:43:25 [INFO]: Server running on http://localhost:5000
+2025-03-21 17:43:25 [INFO]: Database connected successfully
+2025-03-22 12:36:37 [INFO]: Server running on http://localhost:5000
+2025-03-22 12:36:37 [INFO]: Database connected successfully
+2025-03-22 12:37:37 [INFO]: Server running on http://localhost:5000
+2025-03-22 12:37:37 [INFO]: Database connected successfully
+2025-03-22 12:37:42 [ERROR]: User data creation failed
+2025-03-22 12:37:42 [ERROR]: User creation failed
+2025-03-22 12:39:12 [ERROR]: User data creation failed
+2025-03-22 12:39:12 [ERROR]: User creation failed
+2025-03-22 12:39:29 [INFO]: User Data Fetching Started
+2025-03-22 12:39:29 [INFO]: User Data Fetched
+2025-03-22 12:39:29 [INFO]: user data fetched response: 200 Successfully fetched user data
+2025-03-22 12:40:24 [INFO]: Add User Started
+2025-03-22 12:40:24 [INFO]: User data created
+2025-03-22 12:40:24 [INFO]: User created successfully,  200 Successfully created user data
+2025-03-22 12:40:45 [INFO]: Add User Started
+2025-03-22 12:40:45 [INFO]: User data created
+2025-03-22 12:40:45 [INFO]: User created successfully,  200 Successfully created user data
+2025-03-22 12:41:00 [INFO]: Server running on http://localhost:5000
+2025-03-22 12:41:00 [INFO]: Database connected successfully
+2025-03-22 12:41:03 [INFO]: Server running on http://localhost:5000
+2025-03-22 12:41:03 [INFO]: Database connected successfully
+2025-03-22 12:42:34 [INFO]: Server running on http://localhost:5000
+2025-03-22 12:42:34 [INFO]: Database connected successfully
+2025-03-22 12:42:36 [INFO]: Server running on http://localhost:5000
+2025-03-22 12:42:37 [INFO]: Database connected successfully
+2025-03-22 12:44:27 [INFO]: Server running on http://localhost:5000
+2025-03-22 12:44:27 [INFO]: Database connected successfully
+2025-03-22 12:44:29 [INFO]: Server running on http://localhost:5000
+2025-03-22 12:44:29 [INFO]: Database connected successfully
+2025-03-22 12:46:01 [INFO]: Server running on http://localhost:5000
+2025-03-22 12:46:01 [INFO]: Database connected successfully
+2025-03-22 12:48:24 [INFO]: Server running on http://localhost:5000
+2025-03-22 12:48:24 [INFO]: Database connected successfully
+2025-03-22 12:48:30 [INFO]: Add User Started
+2025-03-22 12:48:30 [INFO]: User data created
+2025-03-22 12:48:30 [INFO]: User created successfully,  200 Successfully created user data
+2025-03-22 12:50:15 [INFO]: Server running on http://localhost:5000
+2025-03-22 12:50:15 [INFO]: Database connected successfully
+2025-03-22 12:50:17 [INFO]: Add User Started
+2025-03-22 12:50:17 [INFO]: User data created
+2025-03-22 12:50:17 [INFO]: User created successfully,  200 Successfully created user data
+2025-03-22 12:50:23 [INFO]: User Data Fetching Started
+2025-03-22 12:50:23 [INFO]: User Data Fetched
+2025-03-22 12:50:23 [INFO]: user data fetched response: 200 Successfully fetched user data
+2025-03-22 18:40:40 [INFO]: Server running on http://localhost:5000
+2025-03-22 18:40:40 [INFO]: Database connected successfully
+2025-03-22 18:40:46 [INFO]: Server running on http://localhost:5000
+2025-03-22 18:40:46 [INFO]: Database connected successfully
+2025-03-22 18:44:49 [INFO]: Server running on http://localhost:5000
+2025-03-22 18:44:49 [INFO]: Database connected successfully
+2025-03-22 18:44:51 [INFO]: Server running on http://localhost:5000
+2025-03-22 18:44:51 [INFO]: Database connected successfully
+2025-03-22 18:47:08 [INFO]: Server running on http://localhost:5000
+2025-03-22 18:47:08 [INFO]: Database connected successfully
+2025-03-22 18:47:15 [ERROR]: User data creation failed
+2025-03-22 18:47:15 [ERROR]: User creation failed
+2025-03-22 18:48:11 [INFO]: Add User Started
+2025-03-22 18:48:11 [INFO]: User data created
+2025-03-22 18:48:11 [INFO]: User created successfully,  200 Successfully created user data
+2025-03-22 18:49:30 [INFO]: Server running on http://localhost:5000
+2025-03-22 18:49:30 [INFO]: Database connected successfully
+2025-03-22 18:49:36 [INFO]: Server running on http://localhost:5000
+2025-03-22 18:49:36 [INFO]: Database connected successfully
+2025-03-22 18:49:40 [INFO]: Server running on http://localhost:5000
+2025-03-22 18:49:40 [INFO]: Database connected successfully
+2025-03-22 18:49:44 [INFO]: Server running on http://localhost:5000
+2025-03-22 18:49:44 [INFO]: Database connected successfully
+2025-03-22 18:49:51 [INFO]: Server running on http://localhost:5000
+2025-03-22 18:49:51 [INFO]: Database connected successfully
+2025-03-22 18:49:55 [INFO]: Server running on http://localhost:5000
+2025-03-22 18:49:55 [INFO]: Database connected successfully
+2025-03-22 18:49:56 [INFO]: Server running on http://localhost:5000
+2025-03-22 18:49:56 [INFO]: Database connected successfully
+2025-03-22 18:57:43 [INFO]: Server running on http://localhost:5000
+2025-03-22 18:57:43 [INFO]: Database connected successfully
+2025-03-22 18:57:54 [INFO]: Add User Started
+2025-03-22 18:57:54 [INFO]: User data created
+2025-03-22 18:57:54 [INFO]: User created successfully,  200 Successfully created user data
+2025-03-22 19:00:00 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:00:00 [INFO]: Database connected successfully
+2025-03-22 19:00:08 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:00:08 [INFO]: Database connected successfully
+2025-03-22 19:00:12 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:00:12 [INFO]: Database connected successfully
+2025-03-22 19:00:25 [INFO]: Add User Started
+2025-03-22 19:00:25 [INFO]: User data created
+2025-03-22 19:00:25 [INFO]: User created successfully,  200 Successfully created user data
+2025-03-22 19:02:18 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:02:18 [INFO]: Database connected successfully
+2025-03-22 19:02:28 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:02:28 [INFO]: Database connected successfully
+2025-03-22 19:02:40 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:02:41 [INFO]: Database connected successfully
+2025-03-22 19:02:49 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:02:49 [INFO]: Database connected successfully
+2025-03-22 19:02:58 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:02:58 [INFO]: Database connected successfully
+2025-03-22 19:03:04 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:03:04 [INFO]: Database connected successfully
+2025-03-22 19:03:05 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:03:05 [INFO]: Database connected successfully
+2025-03-22 19:03:13 [WARN]: Extra fields detected: pass
+2025-03-22 19:03:24 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:03:24 [INFO]: Database connected successfully
+2025-03-22 19:03:41 [INFO]: Add User Started
+2025-03-22 19:03:41 [INFO]: User data created
+2025-03-22 19:03:41 [INFO]: User created successfully,  200 Successfully created user data
+2025-03-22 19:09:23 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:09:23 [INFO]: Database connected successfully
+2025-03-22 19:09:38 [WARN]: Missing fields detected: id, createdAt, updatedAt
+2025-03-22 19:09:59 [WARN]: Missing fields detected: id, createdAt, updatedAt
+2025-03-22 19:12:26 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:12:26 [INFO]: Database connected successfully
+2025-03-22 19:12:34 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:12:34 [INFO]: Database connected successfully
+2025-03-22 19:12:44 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:12:44 [INFO]: Database connected successfully
+2025-03-22 19:12:59 [WARN]: Fields order mismatch. Expected: name, email, age, Provided: name, age, email
+2025-03-22 19:13:09 [ERROR]: Validation error
+2025-03-22 19:13:26 [WARN]: Extra fields detected: pass
+2025-03-22 19:13:34 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:13:34 [INFO]: Database connected successfully
+2025-03-22 19:13:35 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:13:35 [INFO]: Database connected successfully
+2025-03-22 19:13:42 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:13:42 [INFO]: Database connected successfully
+2025-03-22 19:13:46 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:13:46 [INFO]: Database connected successfully
+2025-03-22 19:13:48 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:13:48 [INFO]: Database connected successfully
+2025-03-22 19:14:06 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:14:06 [INFO]: Database connected successfully
+2025-03-22 19:14:10 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:14:10 [INFO]: Database connected successfully
+2025-03-22 19:14:13 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:14:13 [INFO]: Database connected successfully
+2025-03-22 19:14:20 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:14:20 [INFO]: Database connected successfully
+2025-03-22 19:14:23 [INFO]: Server running on http://localhost:5000
+2025-03-22 19:14:23 [INFO]: Database connected successfully
+2025-03-24 10:37:06 [INFO]: Server running on http://localhost:5000
+2025-03-24 10:37:06 [INFO]: Database connected successfully
+2025-03-24 10:37:44 [INFO]: Server running on http://localhost:5000
+2025-03-24 10:37:44 [INFO]: Database connected successfully
+2025-03-24 10:37:50 [INFO]: Server running on http://localhost:5000
+2025-03-24 10:37:50 [INFO]: Database connected successfully
+2025-03-24 10:37:55 [INFO]: Server running on http://localhost:5000
+2025-03-24 10:37:55 [INFO]: Database connected successfully
+2025-03-24 10:37:57 [INFO]: Server running on http://localhost:5000
+2025-03-24 10:37:57 [ERROR]: Database connection failed
+2025-03-24 10:38:00 [INFO]: Server running on http://localhost:5000
+2025-03-24 10:38:00 [ERROR]: Database connection failed
+2025-03-24 10:38:02 [INFO]: Server running on http://localhost:5000
+2025-03-24 10:38:02 [ERROR]: Database connection failed
+2025-03-24 10:48:25 [INFO]: Server running on http://localhost:5000
+2025-03-24 10:48:25 [ERROR]: Database connection failed
+2025-03-24 10:48:29 [INFO]: Server running on http://localhost:3000
+2025-03-24 10:48:39 [ERROR]: Database connection failed
+2025-03-24 10:50:56 [INFO]: Server running on http://localhost:3000
+2025-03-24 10:50:56 [INFO]: Database connected successfully
+2025-03-24 10:52:44 [INFO]: Server running on http://localhost:3000
+2025-03-24 10:52:44 [INFO]: Database connected successfully
+2025-03-24 10:53:44 [INFO]: Server running on http://localhost:3000
+2025-03-24 10:53:44 [INFO]: Database connected successfully
+2025-03-24 10:54:35 [INFO]: Server running on http://localhost:3000
+2025-03-24 10:54:35 [INFO]: Database connected successfully
+2025-03-24 10:54:38 [INFO]: Server running on http://localhost:3000
+2025-03-24 10:54:38 [INFO]: Database connected successfully
+2025-03-24 10:54:41 [INFO]: Server running on http://localhost:3000
+2025-03-24 10:54:41 [INFO]: Database connected successfully
+2025-03-24 10:54:42 [INFO]: Server running on http://localhost:3000
+2025-03-24 10:54:42 [INFO]: Database connected successfully
+2025-03-24 10:54:43 [INFO]: Server running on http://localhost:3000
+2025-03-24 10:54:44 [INFO]: Database connected successfully
+2025-03-24 10:54:45 [INFO]: Server running on http://localhost:3000
+2025-03-24 10:54:45 [INFO]: Database connected successfully
+2025-03-24 10:54:46 [INFO]: Server running on http://localhost:3000
+2025-03-24 10:54:46 [INFO]: Database connected successfully
+2025-03-24 10:54:54 [INFO]: User Data Fetching Started
+2025-03-24 10:54:54 [INFO]: User Data Fetched
+2025-03-24 10:54:54 [INFO]: user data fetched response: 200 Successfully fetched user data
